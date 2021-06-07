@@ -1,4 +1,4 @@
-# Open Ai Gym extension for robotics
+# Open Ai Gym extension for robotics  （robotics_gym）
 Inspired by [gym_gazebo](https://github.com/erlerobot/gym-gazebo), robotics_gym is a customized gym extension that includes environments for gazebo and stage simulator.
 ## Installation
 ### Requirements
